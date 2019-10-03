@@ -1,0 +1,60 @@
+body {
+    background-color: #1534;
+}
+
+
+
+input {
+	width: 266px;
+	border-radius: 2em;
+}
+
+#search {
+    width: 10em;  
+    height: 2em;
+}
+
+
+#Ja {
+	width: 10px;
+
+}
+
+#Nee {
+	width: 10px;
+}
+
+#Maandag {
+	width: 10px;
+}
+
+#Dinsdag {
+	width: 10px;
+}
+
+#Woensdag {
+	width: 10px;
+}
+
+#Donderdag {
+	width: 10px;
+}
+ 
+#Vrijdag {
+	width: 10px;
+}
+
+#Zaterdag {
+	width: 10px;
+
+}
+ #Zondag {
+ 	width: 10px;
+ }
+
+ #story {
+ 	border: solid;
+ 	border-color: lightblue;
+ }
+
+
